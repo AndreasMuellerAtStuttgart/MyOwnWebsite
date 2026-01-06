@@ -1,0 +1,10 @@
+Die Website hat folgende Anforderungen:
+Volle Browserkompatibilität (IE11, Edge, Firefox, Chrome, Safari)
+Einen Header :
+Dieser beinhaltet den Titel der Seite und das Burgermenu
+Ein Burgermenü welches sich bei einem Klick öffnet und dich zu den einzelnen Sektionen der Seite leitet
+Der Header ist „sticky“ und beim scrollen wird nur noch der Titel und das Burgermenu anzeigt (Gesamthöhe wird geringer)
+
+Die Website besteht aus einem Header, 5 Sektionen nach deiner Wahl und einem Footer.
+Nutze die Sektionen um etwas über dich zu zeigen und probiere eine Technologie oder Funktion aus die du schon immer ausprobieren wolltest.
+Einen "Go to Top" Button der beim runterscrollen der Seite eingeblendet wird (dieser befindet sich am rechten unteren Rand der Seite).
