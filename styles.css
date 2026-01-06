@@ -12,3 +12,20 @@ nav {
     flex-direction: column;
 }
 
+.menu {
+    display: none;
+}
+
+.menu-button {
+    display: none;
+}
+
+.menu-label {
+    color: silver;
+}
+
+.menu-button:checked + .menu-label + .menu {
+    display: block;
+    flex-direction: column;
+}
+
